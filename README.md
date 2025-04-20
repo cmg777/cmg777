@@ -1,6 +1,9 @@
-## Hi there 👋
 
-My research interests focus on the integration of development economics, spatial data science, and applied econometrics to understand and inform the process of sustainable development across subnational regions. My current research deals with (1) geospatial big data analytics and socioeconomic development; (2) geospatial inequality, poverty, and growth interactions; (3) regional infrastructure and mobility flows; and (4) spatial structural change and productivity dynamics.
+
+![](pic.gif)
+
+## Hi there 👋
+My research interests focus on the integration of development economics, spatial data science, and applied econometrics to understand and inform the process of sustainable development across subnational regions. 
 
 <!--
 **cmg777/cmg777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
