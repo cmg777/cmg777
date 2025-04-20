@@ -2,7 +2,7 @@
 
 ![](pic.gif)
 
-## Hi there 👋
+## Welcome to my GitHub repositories 👋
 My research interests focus on the integration of development economics, spatial data science, and applied econometrics to understand and inform the process of sustainable development across subnational regions. 
 
 <!--
