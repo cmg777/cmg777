@@ -3,7 +3,7 @@
 ![](pic.gif)
 
 ## Welcome to my GitHub repositories 👋
-My research interests focus on the integration of development economics, spatial data science, and applied econometrics to understand and inform the process of sustainable development across subnational regions. 
+My research interests focus on the integration of development economics, spatial data science, and applied econometrics to understand and inform the process of sustainable development. 
 
 <!--
 **cmg777/cmg777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
